@@ -1,0 +1,15 @@
+{
+  "Receita":"Bolo de chocolate",
+  "Tempo de preparo":"00:25",
+  "Rendimento":"4 porcao",
+  "Ingrediente":[
+    {
+      "nome": "farinha",
+      "qtda":"1"
+
+    }
+  ]
+
+
+
+}
